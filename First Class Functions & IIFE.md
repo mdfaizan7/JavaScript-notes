@@ -5,8 +5,6 @@
 
 ## Examples
 
----
-
 I would recommend that you open the console of your browser and try to run the code yourself and see what happens. Maybe you could also experiment with it 😉
 
 ### Assign a function to a variable:
